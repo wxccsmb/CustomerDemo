@@ -5,7 +5,7 @@
 const CUSTOMER_NAME = "Webex Customer Experience";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "WxCCCisco.png";
+const CUSTOMER_IMAGE = "Recreationalgroup.png";
 
 
 // Set this stuff once and Fuggedaboutit...
