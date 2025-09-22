@@ -5,7 +5,7 @@
 const CUSTOMER_NAME = "Snap Diagnostics";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "Snap.png";
+const CUSTOMER_IMAGE = "SnapDiag.png";
 
 
 // Set this stuff once and Fuggedaboutit...
