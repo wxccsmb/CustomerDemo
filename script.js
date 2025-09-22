@@ -2,7 +2,7 @@
 //document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Recreational Group";
+const CUSTOMER_NAME = "Snap Diagnostics";
 
 // Use this for asset images
 const CUSTOMER_IMAGE = "Recreationalgroup.png";
