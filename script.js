@@ -25,7 +25,7 @@ const COBROWSE_IMAGE = "CustomerCobrowse.jpg";
 //-----------------------------------------//
 
 
-// Set title & image for the customer name
+// Set title & image for the customer name 
 document.title = CUSTOMER_NAME;
 document.getElementById("bgImage").src = CUSTOMER_IMAGE;
 
