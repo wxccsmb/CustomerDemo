@@ -2,10 +2,10 @@
 //document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Advancial Federal Credit Union";
+const CUSTOMER_NAME = "The Recreational Group";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "Advancial.png";
+const CUSTOMER_IMAGE = "Recreationalgroup.png";
 
 
 // Set this stuff once and Fuggedaboutit...
