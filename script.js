@@ -2,14 +2,14 @@
 //document.addEventListener('DOMContentLoaded', (event) => {
 
 // Set these for each customer demo...
-const CUSTOMER_NAME = "Advancial Federal Credit Union";
+const CUSTOMER_NAME = "Commerce West Bank";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "Advancial.png";
+const CUSTOMER_IMAGE = "CommerceWestBank.png";
 
 
 // Set this stuff once and Fuggedaboutit...
-const WXCC_TELEPHONE_NUMBER = "18003222709";
+const WXCC_TELEPHONE_NUMBER = "18665212925";
 const IMI_SMS_WEBHOOK = "https://hooks.us.webexconnect.io/events/OER349T058";
 const IMI_CALLBACK_WEBHOOK = "https://hooks.us.webexconnect.io/events/W7AGG29OMZ";
 const IMI_VIDEO_WEBHOOK = "https://hooks.us.webexconnect.io/events/JM54JGXIIJ";
