@@ -5,7 +5,7 @@
 const CUSTOMER_NAME = "Commerce West Bank";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "CommerceWestBank.png";
+const CUSTOMER_IMAGE = "ABA.png";
 
 
 // Set this stuff once and Fuggedaboutit...
