@@ -5,7 +5,7 @@
 const CUSTOMER_NAME = "Toyota San Bernardino";
 
 // Use this for asset images
-const CUSTOMER_IMAGE = "Toyotasb.png";
+const CUSTOMER_IMAGE = "Toyotasb.json";
 
 
 // Set this stuff once and Fuggedaboutit...
